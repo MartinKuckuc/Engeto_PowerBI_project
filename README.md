@@ -6,7 +6,9 @@ V rámci prvního projektu máš připravené vhodné datové podklady a zodpov�
 Druhý projekt je zaměřen na vizualizování datasetu. Použít můžeš buď svůj vlastní předpřipravený dataset, případně znovu vycházet z původních datových zdrojů.
 
 POWER BI PROJEKT
+
 Zadání
+
 Tentokrát nebudeš odpovídat na otázky, ale je zcela na tvém výběru, které ukazatele jsou pro tebe nejzajímavější.
 Můžeš se tedy samozřejmě inspirovat otázkami z prvního projektu, hlavně je ale musíš vhodným způsobem graficky zobrazit v Power BI reportu.
 
